@@ -1,0 +1,13 @@
+d=10
+e=11
+f=4
+g=8
+h=45
+i=34
+j=23
+k=56
+l=2
+m=56
+print(d+e)
+print(g*f)
+print(k/l)
