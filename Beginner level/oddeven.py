@@ -1,5 +1,5 @@
-ivr=int(raw_input())
-if(ivr%2==0):
+ivrrr=int(raw_input())
+if(ivrrr%2==0):
 	print("Even")
 else:
 	print("Odd")
