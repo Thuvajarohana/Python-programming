@@ -1,0 +1,11 @@
+numm=int(raw_input())
+if(numm%4==0):
+	if(numm%100==0):
+		if(numm%400==0):
+			print("yes")
+		else:
+			print("no")
+	else:
+		print("yes")
+else:
+	print("no")
