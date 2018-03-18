@@ -1,9 +1,9 @@
-num1=int(raw_input())
-num2=int(raw_input())
-num3=int(raw_input())
-if(num1>num2 and num1>num3):
-	print(num1)
-elif(num2>num3):
-	print(num2)
+num1get=int(raw_input())
+num2get=int(raw_input())
+num3get=int(raw_input())
+if(num1get>num2get and num1get>num3get):
+	print(num1get)
+elif(num2get>num3get):
+	print(num2get)
 else:
-	print(num3)
+	print(num3get)
