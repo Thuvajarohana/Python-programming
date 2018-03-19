@@ -1,6 +1,5 @@
-try:
-	basenum=int(raw_input())
-	power=int(raw_input())
-	print(basenum**power)
-except:
-	print("invalid")
+basenum=int(raw_input())
+powernum=int(raw_input())
+print(basenum**powernum)
+
+	
