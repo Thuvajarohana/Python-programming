@@ -1,0 +1,11 @@
+num=int(raw_input())
+temp=num
+op=0
+while(num!=0):
+	reminder=num%10
+	op=op*10+reminder
+	num=num/10
+if(op==temp):
+	print("yes")
+else:
+	print("no")
