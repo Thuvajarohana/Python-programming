@@ -1,3 +1,3 @@
 basenum=int(raw_input())
-powernum=int(raw_input())
-print(basenum**powernum)
+powernnum=int(raw_input())
+print(basenum**powernnum)
