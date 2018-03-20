@@ -1,5 +1,5 @@
-start=int(raw_input())
+start1=int(raw_input())
 end=int(raw_input())
-for x in range(start+1,end):
+for x in range(start1+1,end):
 	if(x%2==1):
 		print(x)
