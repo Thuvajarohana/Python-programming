@@ -1,5 +1,6 @@
-num=int(raw_input())
+numpos=int(raw_input())
 fac=1
-for i in range(1,num+1):
-	fac*=i
-print(fac)
+if(numpos>=0):
+	for i in range(1,numpos+1):
+		fac*=i
+	print(fac)
