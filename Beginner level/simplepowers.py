@@ -1,3 +1,2 @@
-basenum=int(raw_input())
-powernnum=int(raw_input())
-print(basenum**powernnum)
+x, y =raw_input().split()
+print(int(x)**int(y))
