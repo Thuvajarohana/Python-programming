@@ -1,0 +1,5 @@
+totlnum=float(raw_input())
+first_term=int(raw_input())
+common_diff=int(raw_input())
+sum=int((totlnum/2)*(2*first_term+(totlnum-1)*common_diff))
+print(sum)
