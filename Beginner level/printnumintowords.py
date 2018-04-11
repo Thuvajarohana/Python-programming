@@ -1,0 +1,21 @@
+y=int(raw_input())
+if(y==1):
+  print('one')
+elif(y==2):
+  print('two')
+elif(y==3):
+  print('three')
+elif(y==4):
+  print('four')
+elif(y==5):
+  print('five')
+elif(y==6):
+  print('six')
+elif(y==7):
+  print('seven')
+elif(y==8):
+  print('eight')
+elif(y==9):
+  print('nine')
+else:
+  print('ten')
