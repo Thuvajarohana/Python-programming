@@ -1,21 +1,21 @@
 y=int(raw_input())
 if(y==1):
-  print('one')
+  print('One')
 elif(y==2):
-  print('two')
+  print('Two')
 elif(y==3):
-  print('three')
+  print('Three')
 elif(y==4):
-  print('four')
+  print('Four')
 elif(y==5):
-  print('five')
+  print('Five')
 elif(y==6):
-  print('six')
+  print('Six')
 elif(y==7):
-  print('seven')
+  print('Seven')
 elif(y==8):
-  print('eight')
+  print('Eight')
 elif(y==9):
-  print('nine')
+  print('Nine')
 else:
-  print('ten')
+  print('Ten')
